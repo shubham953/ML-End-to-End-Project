@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/shubham953/ML-End-to-End-Project
+Author: shubham953
+Author-email: shubham5bhardwaj95@gmail.com
+Project-URL: Bug Tracker, https://github.com/shubham953/ML-End-to-End-Project/issues
+
+# ML-End-to-End-Project
+
+git config --global user.email "shubham5bhardwaj95@gmail.com.com"
+
+git config --global user.name "shubham953"
