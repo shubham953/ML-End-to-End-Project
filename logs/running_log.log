@@ -1,2 +1,1272 @@
 [2024-04-17 15:55:20,489: INFO:main:This is our custom log!]
 [2024-04-17 15:57:10,317: INFO:main:My name is shubham!]
+[2024-04-18 15:48:24,216: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 15:49:01,573: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 15:50:44,105: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 15:53:27,076: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 15:53:27,078: INFO:common:yaml file: /config/workspace/params.yaml loaded successfully]
+[2024-04-18 15:54:25,328: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 15:54:25,330: INFO:common:yaml file: /config/workspace/params.yaml loaded successfully]
+[2024-04-18 15:54:25,334: INFO:common:yaml file: /config/workspace/schema.yaml loaded successfully]
+[2024-04-18 15:55:43,454: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 15:55:43,456: INFO:common:yaml file: /config/workspace/params.yaml loaded successfully]
+[2024-04-18 15:55:43,460: INFO:common:yaml file: /config/workspace/schema.yaml loaded successfully]
+[2024-04-18 16:01:13,771: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:01:13,774: INFO:common:yaml file: /config/workspace/params.yaml loaded successfully]
+[2024-04-18 16:01:13,778: INFO:common:yaml file: /config/workspace/schema.yaml loaded successfully]
+[2024-04-18 16:02:08,267: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:02:08,269: INFO:common:yaml file: /config/workspace/params.yaml loaded successfully]
+[2024-04-18 16:02:08,273: INFO:common:yaml file: /config/workspace/schema.yaml loaded successfully]
+[2024-04-18 16:04:26,548: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:04:26,550: INFO:common:yaml file: /config/workspace/params.yaml loaded successfully]
+[2024-04-18 16:04:26,553: INFO:common:yaml file: /config/workspace/schema.yaml loaded successfully]
+[2024-04-18 16:04:26,555: INFO:common:created directory at: artifacts]
+[2024-04-18 16:04:26,556: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-04-18 16:06:37,255: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:06:37,257: INFO:common:yaml file: /config/workspace/params.yaml loaded successfully]
+[2024-04-18 16:06:37,262: INFO:common:yaml file: /config/workspace/schema.yaml loaded successfully]
+[2024-04-18 16:06:37,263: INFO:common:created directory at: artifacts]
+[2024-04-18 16:06:37,264: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-04-18 16:07:42,790: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:07:42,793: INFO:common:yaml file: /config/workspace/params.yaml loaded successfully]
+[2024-04-18 16:07:42,797: INFO:common:yaml file: /config/workspace/schema.yaml loaded successfully]
+[2024-04-18 16:07:42,798: INFO:common:created directory at: artifacts]
+[2024-04-18 16:07:42,799: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-04-18 16:11:14,482: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:11:14,484: INFO:common:yaml file: /config/workspace/params.yaml loaded successfully]
+[2024-04-18 16:11:14,489: INFO:common:yaml file: /config/workspace/schema.yaml loaded successfully]
+[2024-04-18 16:11:14,490: INFO:common:created directory at: artifacts]
+[2024-04-18 16:13:19,905: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:13:19,907: INFO:common:yaml file: /config/workspace/params.yaml loaded successfully]
+[2024-04-18 16:13:19,911: INFO:common:yaml file: /config/workspace/schema.yaml loaded successfully]
+[2024-04-18 16:13:19,912: INFO:common:created directory at: artifacts]
+[2024-04-18 16:13:49,490: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:13:49,492: INFO:common:yaml file: /config/workspace/params.yaml loaded successfully]
+[2024-04-18 16:13:49,496: INFO:common:yaml file: /config/workspace/schema.yaml loaded successfully]
+[2024-04-18 16:13:49,498: INFO:common:created directory at: artifacts]
+[2024-04-18 16:13:49,499: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-04-18 16:15:47,793: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:15:47,795: INFO:common:yaml file: /config/workspace/params.yaml loaded successfully]
+[2024-04-18 16:15:47,799: INFO:common:yaml file: /config/workspace/schema.yaml loaded successfully]
+[2024-04-18 16:15:47,800: INFO:common:created directory at: artifacts]
+[2024-04-18 16:15:47,801: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-04-18 16:17:02,956: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:17:02,959: INFO:common:yaml file: /config/workspace/params.yaml loaded successfully]
+[2024-04-18 16:17:02,963: INFO:common:yaml file: /config/workspace/schema.yaml loaded successfully]
+[2024-04-18 16:17:02,965: INFO:common:created directory at: artifacts]
+[2024-04-18 16:17:02,966: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-04-18 16:22:09,538: INFO:common:yaml file: config/config.yaml loaded successfully]
+[2024-04-18 16:22:09,541: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-04-18 16:22:09,545: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-04-18 16:22:09,547: INFO:common:created directory at: artifacts]
+[2024-04-18 16:22:09,548: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-04-18 16:22:10,268: INFO:2301915327:artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1220:906E:920AFA:AC515D:6620FB58
+Accept-Ranges: bytes
+Date: Thu, 18 Apr 2024 10:52:10 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4750-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1713437530.936995,VS0,VE328
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: fba72ae15ccd8ce4aaa965e075f392e903dabd06
+Expires: Thu, 18 Apr 2024 10:57:10 GMT
+Source-Age: 0
+
+]
+[2024-04-18 16:24:57,170: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:25:24,126: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:28:17,143: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:29:07,417: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:34:22,674: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:36:13,768: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-18 16:36:13,769: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-04-18 16:36:13,773: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-04-18 16:36:13,775: INFO:common:created directory at: artifacts]
+[2024-04-18 16:36:13,776: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-04-18 16:36:14,650: INFO:2301915327:artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 21984
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "85a38be3d4c70e3b6dc97fc47873623da88c9b850e1526aeb57ff236bdd2815c"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 660A:337C4D:127D19:15B27F:6620FEA6
+Accept-Ranges: bytes
+Date: Thu, 18 Apr 2024 11:06:14 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4739-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1713438374.177113,VS0,VE472
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a1c56b0b09beb889438b8077d1012d6d9ec4d00d
+Expires: Thu, 18 Apr 2024 11:11:14 GMT
+Source-Age: 0
+
+]
+[2024-04-19 00:27:44,642: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-04-19 00:27:44,644: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-04-19 00:27:44,648: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-04-19 00:27:44,649: INFO:common:created directory at: artifacts]
+[2024-04-19 00:27:44,650: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-04-19 00:27:44,651: INFO:2301915327:File already exists of size: ~21 KB]
+[2024-05-01 00:09:29,261: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 00:09:29,266: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:09:29,267: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:09:29,270: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:09:29,270: INFO:common:created directory at: artifacts]
+[2024-05-01 00:09:29,270: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 00:09:29,270: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 00:09:29,272: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:09:29,272: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 00:09:29,276: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:09:29,277: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:09:29,280: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:09:29,280: INFO:common:created directory at: artifacts]
+[2024-05-01 00:09:29,280: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 00:09:29,281: ERROR:main:name 'DataValiadtion' is not defined]
+Traceback (most recent call last):
+  File "main.py", line 26, in <module>
+    data_ingestion.main()
+  File "/config/workspace/ML-End-to-End-Project/src/mlProject/pipeline/stage_02_data_validation.py", line 15, in main
+    data_validation = DataValiadtion(config=data_validation_config)
+NameError: name 'DataValiadtion' is not defined
+[2024-05-01 00:29:00,266: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 00:29:00,270: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:29:00,271: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:29:00,274: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:29:00,275: INFO:common:created directory at: artifacts]
+[2024-05-01 00:29:00,275: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 00:29:00,275: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 00:29:00,277: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:29:00,277: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 00:29:00,281: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:29:00,282: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:29:00,285: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:29:00,285: INFO:common:created directory at: artifacts]
+[2024-05-01 00:29:00,285: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 00:29:00,286: ERROR:main:[Errno 2] No such file or directory: 'artifacts/data_ingestion/winequality-red.csv']
+Traceback (most recent call last):
+  File "main.py", line 27, in <module>
+    data_ingestion.main()
+  File "/config/workspace/ML-End-to-End-Project/src/mlProject/pipeline/stage_02_data_validation.py", line 18, in main
+    data_validation.validate_all_columns()
+  File "/config/workspace/ML-End-to-End-Project/src/mlProject/components/data_validation.py", line 34, in validate_all_columns
+    raise e
+  File "/config/workspace/ML-End-to-End-Project/src/mlProject/components/data_validation.py", line 15, in validate_all_columns
+    data = pd.read_csv(self.config.unzip_data_dir)
+  File "/config/.conda/envs/mlproj/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/config/.conda/envs/mlproj/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/config/.conda/envs/mlproj/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/config/.conda/envs/mlproj/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/config/.conda/envs/mlproj/lib/python3.8/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/winequality-red.csv'
+[2024-05-01 00:31:50,099: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 00:31:50,103: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:31:50,104: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:31:50,107: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:31:50,107: INFO:common:created directory at: artifacts]
+[2024-05-01 00:31:50,107: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 00:31:50,108: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 00:31:50,109: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:31:50,109: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 00:31:50,113: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:31:50,114: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:31:50,117: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:31:50,117: INFO:common:created directory at: artifacts]
+[2024-05-01 00:31:50,117: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 00:31:50,131: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:31:50,131: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 00:31:50,135: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:31:50,136: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:31:50,139: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:31:50,139: INFO:common:created directory at: artifacts]
+[2024-05-01 00:31:50,139: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 00:31:50,157: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 00:31:50,157: INFO:data_transformation:(857, 13)]
+[2024-05-01 00:31:50,157: INFO:data_transformation:(286, 13)]
+[2024-05-01 00:31:50,158: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:31:50,158: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 00:31:50,162: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:31:50,163: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:31:50,165: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:31:50,166: INFO:common:created directory at: artifacts]
+[2024-05-01 00:31:50,166: ERROR:main:"'ConfigBox' object has no attribute 'target_column'"]
+Traceback (most recent call last):
+  File "box/box.py", line 592, in box.box.Box.__getitem__
+KeyError: 'TARGET_COLUMN'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/box.py", line 631, in box.box.Box.__getattr__
+  File "box/box.py", line 619, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'TARGET_COLUMN'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 633, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'TARGET_COLUMN'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box/box.py", line 647, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'TARGET_COLUMN'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 592, in box.box.Box.__getitem__
+KeyError: 'target_column'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/box.py", line 631, in box.box.Box.__getattr__
+  File "box/box.py", line 619, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'target_column'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 633, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'target_column'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 51, in <module>
+    data_ingestion.main()
+  File "/config/workspace/ML-End-to-End-Project/src/mlProject/pipeline/stage_04_model_trainer.py", line 15, in main
+    model_trainer_config = config.get_model_trainer_config()
+  File "/config/workspace/ML-End-to-End-Project/src/mlProject/config/configuration.py", line 73, in get_model_trainer_config
+    schema =  self.schema.TARGET_COLUMN
+  File "box/config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box/box.py", line 647, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'target_column'"
+[2024-05-01 00:39:00,143: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 00:39:00,147: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:39:00,148: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:39:00,151: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:39:00,151: INFO:common:created directory at: artifacts]
+[2024-05-01 00:39:00,152: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 00:39:00,152: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 00:39:00,154: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:39:00,154: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 00:39:00,158: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:39:00,158: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:39:00,161: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:39:00,161: INFO:common:created directory at: artifacts]
+[2024-05-01 00:39:00,162: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 00:39:00,178: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:39:00,178: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 00:39:00,182: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:39:00,183: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:39:00,186: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:39:00,186: INFO:common:created directory at: artifacts]
+[2024-05-01 00:39:00,187: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 00:39:00,205: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 00:39:00,205: INFO:data_transformation:(857, 13)]
+[2024-05-01 00:39:00,205: INFO:data_transformation:(286, 13)]
+[2024-05-01 00:39:00,205: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:39:00,206: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 00:39:00,210: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:39:00,211: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:39:00,213: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:39:00,214: INFO:common:created directory at: artifacts]
+[2024-05-01 00:39:00,214: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 00:39:00,231: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:39:00,231: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 00:39:00,236: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:39:00,237: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:39:00,241: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:39:00,241: INFO:common:created directory at: artifacts]
+[2024-05-01 00:39:00,241: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 00:39:00,254: ERROR:main:name 'json' is not defined]
+Traceback (most recent call last):
+  File "main.py", line 63, in <module>
+    data_ingestion.main()
+  File "/config/workspace/ML-End-to-End-Project/src/mlProject/pipeline/stage_05_model_evaluation.py", line 17, in main
+    model_evaluation_config.save_results()
+  File "/config/workspace/ML-End-to-End-Project/src/mlProject/components/model_evaluation.py", line 37, in save_results
+    save_json(path=Path(self.config.metric_file_name), data=scores)
+  File "/config/.conda/envs/mlproj/lib/python3.8/site-packages/ensure/main.py", line 807, in __call__
+    return self.f(*args, **kwargs)
+  File "/config/workspace/ML-End-to-End-Project/src/mlProject/utils/common.py", line 54, in save_json
+    json.dump(data,f,indent=4)
+NameError: name 'json' is not defined
+[2024-05-01 00:41:24,816: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 00:41:24,820: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:41:24,821: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:41:24,824: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:41:24,824: INFO:common:created directory at: artifacts]
+[2024-05-01 00:41:24,824: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 00:41:24,824: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 00:41:24,826: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:41:24,826: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 00:41:24,830: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:41:24,831: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:41:24,834: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:41:24,834: INFO:common:created directory at: artifacts]
+[2024-05-01 00:41:24,834: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 00:41:24,849: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:41:24,849: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 00:41:24,853: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:41:24,854: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:41:24,857: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:41:24,857: INFO:common:created directory at: artifacts]
+[2024-05-01 00:41:24,857: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 00:41:24,875: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 00:41:24,875: INFO:data_transformation:(857, 13)]
+[2024-05-01 00:41:24,875: INFO:data_transformation:(286, 13)]
+[2024-05-01 00:41:24,876: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:41:24,876: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 00:41:24,880: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:41:24,881: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:41:24,883: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:41:24,884: INFO:common:created directory at: artifacts]
+[2024-05-01 00:41:24,884: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 00:41:24,898: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:41:24,898: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 00:41:24,903: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:41:24,904: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:41:24,908: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:41:24,908: INFO:common:created directory at: artifacts]
+[2024-05-01 00:41:24,908: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 00:41:24,921: ERROR:main:name 'json' is not defined]
+Traceback (most recent call last):
+  File "main.py", line 63, in <module>
+    data_ingestion.main()
+  File "/config/workspace/ML-End-to-End-Project/src/mlProject/pipeline/stage_05_model_evaluation.py", line 18, in main
+    model_evaluation_config.save_results()
+  File "/config/workspace/ML-End-to-End-Project/src/mlProject/components/model_evaluation.py", line 37, in save_results
+    save_json(path=Path(self.config.metric_file_name), data=scores)
+  File "/config/.conda/envs/mlproj/lib/python3.8/site-packages/ensure/main.py", line 807, in __call__
+    return self.f(*args, **kwargs)
+  File "/config/workspace/ML-End-to-End-Project/src/mlProject/utils/common.py", line 54, in save_json
+    json.dump(data,f,indent=4)
+NameError: name 'json' is not defined
+[2024-05-01 00:42:22,526: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 00:42:22,531: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:42:22,532: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:42:22,535: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:42:22,535: INFO:common:created directory at: artifacts]
+[2024-05-01 00:42:22,535: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 00:42:22,535: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 00:42:22,538: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:42:22,538: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 00:42:22,542: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:42:22,543: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:42:22,545: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:42:22,546: INFO:common:created directory at: artifacts]
+[2024-05-01 00:42:22,546: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 00:42:22,559: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:42:22,559: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 00:42:22,563: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:42:22,564: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:42:22,567: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:42:22,567: INFO:common:created directory at: artifacts]
+[2024-05-01 00:42:22,567: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 00:42:22,586: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 00:42:22,586: INFO:data_transformation:(857, 13)]
+[2024-05-01 00:42:22,586: INFO:data_transformation:(286, 13)]
+[2024-05-01 00:42:22,586: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:42:22,586: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 00:42:22,590: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:42:22,591: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:42:22,594: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:42:22,594: INFO:common:created directory at: artifacts]
+[2024-05-01 00:42:22,594: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 00:42:22,608: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 00:42:22,609: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 00:42:22,614: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 00:42:22,615: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 00:42:22,619: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 00:42:22,619: INFO:common:created directory at: artifacts]
+[2024-05-01 00:42:22,620: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 00:42:22,632: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 00:42:22,632: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:11:29,510: INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.18.0.7:8080]
+[2024-05-01 01:11:29,510: INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2024-05-01 01:13:56,840: INFO:_internal:172.18.0.2 - - [01/May/2024 01:13:56] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:13:56,952: INFO:_internal:172.18.0.2 - - [01/May/2024 01:13:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-05-01 01:14:03,078: INFO:_internal:172.18.0.2 - - [01/May/2024 01:14:03] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:17:50,147: INFO:_internal:172.18.0.2 - - [01/May/2024 01:17:50] "[33mGET /pridict HTTP/1.1[0m" 404 -]
+[2024-05-01 01:18:13,465: INFO:_internal:172.18.0.2 - - [01/May/2024 01:18:13] "GET /predict HTTP/1.1" 200 -]
+[2024-05-01 01:21:00,964: INFO:_internal:172.18.0.2 - - [01/May/2024 01:21:00] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:21:03,722: INFO:_internal:172.18.0.2 - - [01/May/2024 01:21:03] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:21:20,868: INFO:_internal:172.18.0.2 - - [01/May/2024 01:21:20] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:21:30,293: INFO:_internal:172.18.0.2 - - [01/May/2024 01:21:30] "GET /predict HTTP/1.1" 200 -]
+[2024-05-01 01:31:30,692: INFO:_internal:172.18.0.2 - - [01/May/2024 01:31:30] "GET /predict HTTP/1.1" 200 -]
+[2024-05-01 01:31:32,214: INFO:_internal:172.18.0.2 - - [01/May/2024 01:31:32] "GET /predict HTTP/1.1" 200 -]
+[2024-05-01 01:34:40,113: INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.18.0.7:8080]
+[2024-05-01 01:34:40,113: INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2024-05-01 01:34:52,303: INFO:_internal:172.18.0.2 - - [01/May/2024 01:34:52] "GET /predict HTTP/1.1" 200 -]
+[2024-05-01 01:40:25,509: INFO:_internal:172.18.0.2 - - [01/May/2024 01:40:25] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:40:34,561: INFO:_internal:172.18.0.2 - - [01/May/2024 01:40:34] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:42:24,997: INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.18.0.7:8080]
+[2024-05-01 01:42:24,997: INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2024-05-01 01:42:34,044: INFO:_internal:172.18.0.2 - - [01/May/2024 01:42:34] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:43:01,325: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:43:01,330: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:43:01,331: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:43:01,334: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:43:01,334: INFO:common:created directory at: artifacts]
+[2024-05-01 01:43:01,334: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:43:01,334: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:43:01,336: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:43:01,336: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:43:01,340: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:43:01,341: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:43:01,344: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:43:01,344: INFO:common:created directory at: artifacts]
+[2024-05-01 01:43:01,344: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:43:01,359: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:43:01,359: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:43:01,363: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:43:01,364: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:43:01,367: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:43:01,367: INFO:common:created directory at: artifacts]
+[2024-05-01 01:43:01,367: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:43:01,385: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:43:01,386: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:43:01,386: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:43:01,386: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:43:01,386: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:43:01,390: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:43:01,391: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:43:01,394: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:43:01,394: INFO:common:created directory at: artifacts]
+[2024-05-01 01:43:01,394: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:43:01,409: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:43:01,409: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:43:01,414: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:43:01,415: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:43:01,418: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:43:01,419: INFO:common:created directory at: artifacts]
+[2024-05-01 01:43:01,419: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:43:01,432: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:43:01,432: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:43:01,590: INFO:_internal:172.18.0.2 - - [01/May/2024 01:43:01] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:43:34,515: INFO:_internal:172.18.0.2 - - [01/May/2024 01:43:34] "GET /predict HTTP/1.1" 200 -]
+[2024-05-01 01:44:54,194: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:44:54,199: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:44:54,200: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:44:54,202: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:44:54,203: INFO:common:created directory at: artifacts]
+[2024-05-01 01:44:54,203: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:44:54,203: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:44:54,205: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:44:54,205: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:44:54,209: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:44:54,210: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:44:54,213: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:44:54,213: INFO:common:created directory at: artifacts]
+[2024-05-01 01:44:54,213: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:44:54,226: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:44:54,227: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:44:54,231: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:44:54,232: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:44:54,234: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:44:54,235: INFO:common:created directory at: artifacts]
+[2024-05-01 01:44:54,235: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:44:54,255: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:44:54,255: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:44:54,255: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:44:54,255: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:44:54,255: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:44:54,259: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:44:54,260: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:44:54,263: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:44:54,263: INFO:common:created directory at: artifacts]
+[2024-05-01 01:44:54,264: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:44:54,278: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:44:54,278: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:44:54,283: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:44:54,285: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:44:54,288: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:44:54,289: INFO:common:created directory at: artifacts]
+[2024-05-01 01:44:54,289: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:44:54,302: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:44:54,302: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:44:54,462: INFO:_internal:172.18.0.2 - - [01/May/2024 01:44:54] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:46:11,329: INFO:_internal:172.18.0.2 - - [01/May/2024 01:46:11] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:46:52,064: INFO:_internal:172.18.0.2 - - [01/May/2024 01:46:52] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:46:52,870: INFO:_internal:172.18.0.2 - - [01/May/2024 01:46:52] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:46:53,131: INFO:_internal:172.18.0.2 - - [01/May/2024 01:46:53] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:46:53,369: INFO:_internal:172.18.0.2 - - [01/May/2024 01:46:53] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:46:53,633: INFO:_internal:172.18.0.2 - - [01/May/2024 01:46:53] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:46:53,825: INFO:_internal:172.18.0.2 - - [01/May/2024 01:46:53] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:46:54,031: INFO:_internal:172.18.0.2 - - [01/May/2024 01:46:54] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:46:54,237: INFO:_internal:172.18.0.2 - - [01/May/2024 01:46:54] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:46:54,435: INFO:_internal:172.18.0.2 - - [01/May/2024 01:46:54] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:46:54,624: INFO:_internal:172.18.0.2 - - [01/May/2024 01:46:54] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:46:54,813: INFO:_internal:172.18.0.2 - - [01/May/2024 01:46:54] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:46:55,003: INFO:_internal:172.18.0.2 - - [01/May/2024 01:46:55] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:47:28,353: INFO:_internal:172.18.0.2 - - [01/May/2024 01:47:28] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:47:29,194: INFO:_internal:172.18.0.2 - - [01/May/2024 01:47:29] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:47:29,631: INFO:_internal:172.18.0.2 - - [01/May/2024 01:47:29] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:47:30,029: INFO:_internal:172.18.0.2 - - [01/May/2024 01:47:30] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:47:30,367: INFO:_internal:172.18.0.2 - - [01/May/2024 01:47:30] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:47:30,734: INFO:_internal:172.18.0.2 - - [01/May/2024 01:47:30] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:47:31,026: INFO:_internal:172.18.0.2 - - [01/May/2024 01:47:31] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:47:31,405: INFO:_internal:172.18.0.2 - - [01/May/2024 01:47:31] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:47:32,407: INFO:_internal:172.18.0.2 - - [01/May/2024 01:47:32] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:47:32,740: INFO:_internal:172.18.0.2 - - [01/May/2024 01:47:32] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:47:33,105: INFO:_internal:172.18.0.2 - - [01/May/2024 01:47:33] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:47:33,434: INFO:_internal:172.18.0.2 - - [01/May/2024 01:47:33] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:48:01,349: INFO:_internal:172.18.0.2 - - [01/May/2024 01:48:01] "[33mGET /f HTTP/1.1[0m" 404 -]
+[2024-05-01 01:48:13,906: INFO:_internal:172.18.0.2 - - [01/May/2024 01:48:13] "[33mGET /f HTTP/1.1[0m" 404 -]
+[2024-05-01 01:48:17,854: INFO:_internal:172.18.0.2 - - [01/May/2024 01:48:17] "[33mGET /f HTTP/1.1[0m" 404 -]
+[2024-05-01 01:48:21,858: INFO:_internal:172.18.0.2 - - [01/May/2024 01:48:21] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:49:05,225: INFO:_internal:172.18.0.2 - - [01/May/2024 01:49:05] "[33mGET /f HTTP/1.1[0m" 404 -]
+[2024-05-01 01:49:22,887: INFO:_internal:172.18.0.2 - - [01/May/2024 01:49:22] "[33mGET /f HTTP/1.1[0m" 404 -]
+[2024-05-01 01:49:24,099: INFO:_internal:172.18.0.2 - - [01/May/2024 01:49:24] "[33mGET /f HTTP/1.1[0m" 404 -]
+[2024-05-01 01:49:25,247: INFO:_internal:172.18.0.2 - - [01/May/2024 01:49:25] "[33mGET /f HTTP/1.1[0m" 404 -]
+[2024-05-01 01:49:26,252: INFO:_internal:172.18.0.2 - - [01/May/2024 01:49:26] "[33mGET /f HTTP/1.1[0m" 404 -]
+[2024-05-01 01:49:26,718: INFO:_internal:172.18.0.2 - - [01/May/2024 01:49:26] "[33mGET /f HTTP/1.1[0m" 404 -]
+[2024-05-01 01:49:58,055: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:49:58,059: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:49:58,060: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:49:58,063: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:49:58,063: INFO:common:created directory at: artifacts]
+[2024-05-01 01:49:58,064: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:49:58,064: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:49:58,066: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:49:58,066: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:49:58,070: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:49:58,070: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:49:58,073: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:49:58,074: INFO:common:created directory at: artifacts]
+[2024-05-01 01:49:58,074: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:49:58,090: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:49:58,090: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:49:58,094: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:49:58,095: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:49:58,098: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:49:58,098: INFO:common:created directory at: artifacts]
+[2024-05-01 01:49:58,098: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:49:58,116: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:49:58,116: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:49:58,117: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:49:58,117: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:49:58,117: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:49:58,121: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:49:58,122: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:49:58,125: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:49:58,125: INFO:common:created directory at: artifacts]
+[2024-05-01 01:49:58,125: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:49:58,139: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:49:58,139: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:49:58,145: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:49:58,146: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:49:58,149: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:49:58,150: INFO:common:created directory at: artifacts]
+[2024-05-01 01:49:58,150: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:49:58,162: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:49:58,163: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:49:58,346: INFO:_internal:172.18.0.2 - - [01/May/2024 01:49:58] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:51:58,421: INFO:_internal:172.18.0.2 - - [01/May/2024 01:51:58] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:53:41,592: INFO:_internal:172.18.0.2 - - [01/May/2024 01:53:41] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:55:04,728: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:55:04,733: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:55:04,734: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:55:04,736: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:55:04,737: INFO:common:created directory at: artifacts]
+[2024-05-01 01:55:04,737: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:55:04,737: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:55:04,739: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:55:04,739: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:55:04,743: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:55:04,744: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:55:04,747: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:55:04,747: INFO:common:created directory at: artifacts]
+[2024-05-01 01:55:04,747: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:55:04,760: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:55:04,760: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:55:04,764: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:55:04,765: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:55:04,768: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:55:04,768: INFO:common:created directory at: artifacts]
+[2024-05-01 01:55:04,769: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:55:04,787: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:55:04,787: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:55:04,787: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:55:04,787: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:55:04,787: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:55:04,791: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:55:04,792: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:55:04,795: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:55:04,795: INFO:common:created directory at: artifacts]
+[2024-05-01 01:55:04,796: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:55:04,810: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:55:04,810: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:55:04,815: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:55:04,816: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:55:04,820: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:55:04,820: INFO:common:created directory at: artifacts]
+[2024-05-01 01:55:04,820: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:55:04,833: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:55:04,833: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:55:04,992: INFO:_internal:172.18.0.2 - - [01/May/2024 01:55:04] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:56:06,759: INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.18.0.7:8080]
+[2024-05-01 01:56:06,759: INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2024-05-01 01:56:12,961: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:56:12,966: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:12,967: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:12,970: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:12,970: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:12,970: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:56:12,970: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:56:12,972: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:12,972: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:56:12,976: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:12,977: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:12,980: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:12,980: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:12,980: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:56:12,995: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:12,996: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:56:13,000: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:13,001: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:13,003: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:13,004: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:13,004: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:56:13,022: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:56:13,022: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:56:13,022: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:56:13,023: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:13,023: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:56:13,027: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:13,028: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:13,030: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:13,031: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:13,031: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:56:13,045: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:13,045: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:56:13,051: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:13,052: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:13,055: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:13,056: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:13,056: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:56:13,068: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:56:13,069: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:13,231: INFO:_internal:172.18.0.2 - - [01/May/2024 01:56:13] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:56:14,294: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:56:14,299: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:14,300: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:14,304: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:14,304: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:14,305: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:56:14,305: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:56:14,308: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:14,308: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:56:14,314: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:14,316: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:14,319: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:14,321: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:14,323: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:56:14,344: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:14,344: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:56:14,348: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:14,349: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:14,352: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:14,352: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:14,352: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:56:14,371: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:56:14,371: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:56:14,371: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:56:14,372: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:14,372: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:56:14,376: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:14,377: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:14,379: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:14,380: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:14,380: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:56:14,394: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:14,394: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:56:14,400: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:14,401: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:14,404: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:14,405: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:14,405: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:56:14,417: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:56:14,418: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:14,578: INFO:_internal:172.18.0.2 - - [01/May/2024 01:56:14] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:56:15,210: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:56:15,216: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:15,217: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:15,221: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:15,221: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:15,221: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:56:15,222: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:56:15,224: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:15,224: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:56:15,229: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:15,230: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:15,234: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:15,234: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:15,234: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:56:15,252: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:15,252: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:56:15,258: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:15,259: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:15,262: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:15,263: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:15,263: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:56:15,294: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:56:15,295: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:56:15,295: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:56:15,295: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:15,295: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:56:15,300: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:15,301: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:15,304: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:15,304: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:15,305: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:56:15,321: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:15,321: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:56:15,327: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:15,328: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:15,331: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:15,332: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:15,332: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:56:15,346: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:56:15,346: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:15,575: INFO:_internal:172.18.0.2 - - [01/May/2024 01:56:15] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:56:15,968: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:56:15,973: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:15,974: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:15,976: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:15,977: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:15,977: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:56:15,977: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:56:15,979: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:15,980: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:56:15,984: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:15,984: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:15,987: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:15,988: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:15,988: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:56:16,003: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:16,003: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:56:16,007: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:16,008: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:16,010: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:16,011: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:16,011: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:56:16,029: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:56:16,029: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:56:16,030: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:56:16,030: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:16,030: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:56:16,034: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:16,035: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:16,038: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:16,038: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:16,038: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:56:16,052: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:16,053: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:56:16,058: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:16,059: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:16,063: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:16,063: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:16,063: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:56:16,076: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:56:16,076: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:16,263: INFO:_internal:172.18.0.2 - - [01/May/2024 01:56:16] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:56:17,768: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:56:17,772: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:17,773: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:17,776: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:17,776: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:17,777: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:56:17,777: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:56:17,779: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:17,779: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:56:17,783: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:17,784: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:17,787: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:17,787: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:17,787: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:56:17,801: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:17,802: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:56:17,806: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:17,807: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:17,809: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:17,810: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:17,810: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:56:17,828: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:56:17,828: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:56:17,828: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:56:17,829: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:17,829: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:56:17,833: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:17,834: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:17,837: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:17,837: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:17,837: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:56:17,851: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:17,852: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:56:17,857: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:17,858: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:17,861: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:17,862: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:17,862: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:56:17,875: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:56:17,875: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:18,034: INFO:_internal:172.18.0.2 - - [01/May/2024 01:56:18] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:56:21,861: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:56:21,866: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:21,866: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:21,869: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:21,870: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:21,870: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:56:21,870: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:56:21,872: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:21,872: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:56:21,876: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:21,877: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:21,879: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:21,880: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:21,880: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:56:21,895: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:21,895: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:56:21,900: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:21,900: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:21,903: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:21,904: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:21,904: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:56:21,922: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:56:21,922: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:56:21,922: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:56:21,922: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:21,922: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:56:21,927: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:21,927: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:21,930: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:21,931: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:21,931: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:56:21,945: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:21,945: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:56:21,950: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:21,952: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:21,955: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:21,955: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:21,956: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:56:21,968: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:56:21,969: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:22,127: INFO:_internal:172.18.0.2 - - [01/May/2024 01:56:22] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:56:34,488: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:56:34,493: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:34,494: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:34,497: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:34,497: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:34,497: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:56:34,497: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:56:34,499: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:34,500: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:56:34,504: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:34,504: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:34,507: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:34,508: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:34,508: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:56:34,523: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:34,523: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:56:34,527: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:34,528: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:34,531: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:34,531: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:34,531: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:56:34,550: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:56:34,550: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:56:34,550: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:56:34,551: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:34,551: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:56:34,555: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:34,556: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:34,559: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:34,559: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:34,559: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:56:34,573: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:34,574: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:56:34,579: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:34,580: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:34,583: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:34,584: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:34,584: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:56:34,597: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:56:34,597: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:34,754: INFO:_internal:172.18.0.2 - - [01/May/2024 01:56:34] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:56:36,138: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:56:36,142: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:36,143: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:36,146: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:36,147: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:36,147: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:56:36,147: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:56:36,149: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:36,149: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:56:36,153: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:36,154: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:36,157: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:36,157: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:36,157: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:56:36,172: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:36,172: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:56:36,176: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:36,177: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:36,180: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:36,180: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:36,180: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:56:36,200: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:56:36,200: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:56:36,200: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:56:36,201: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:36,201: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:56:36,205: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:36,206: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:36,209: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:36,209: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:36,209: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:56:36,224: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:36,224: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:56:36,229: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:56:36,230: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:56:36,234: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:56:36,234: INFO:common:created directory at: artifacts]
+[2024-05-01 01:56:36,235: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:56:36,249: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:56:36,250: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:56:36,428: INFO:_internal:172.18.0.2 - - [01/May/2024 01:56:36] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:56:53,779: INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.18.0.7:8080]
+[2024-05-01 01:56:53,779: INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2024-05-01 01:57:28,151: INFO:_internal:172.18.0.2 - - [01/May/2024 01:57:28] "GET / HTTP/1.1" 200 -]
+[2024-05-01 01:57:37,170: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:57:37,175: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:57:37,176: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:57:37,179: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:57:37,179: INFO:common:created directory at: artifacts]
+[2024-05-01 01:57:37,179: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:57:37,179: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:57:37,181: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:57:37,181: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:57:37,185: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:57:37,186: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:57:37,189: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:57:37,190: INFO:common:created directory at: artifacts]
+[2024-05-01 01:57:37,190: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:57:37,204: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:57:37,204: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:57:37,209: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:57:37,210: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:57:37,212: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:57:37,213: INFO:common:created directory at: artifacts]
+[2024-05-01 01:57:37,213: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:57:37,232: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:57:37,232: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:57:37,232: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:57:37,233: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:57:37,233: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:57:37,237: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:57:37,238: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:57:37,241: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:57:37,241: INFO:common:created directory at: artifacts]
+[2024-05-01 01:57:37,241: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:57:37,259: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:57:37,259: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:57:37,265: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:57:37,266: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:57:37,269: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:57:37,270: INFO:common:created directory at: artifacts]
+[2024-05-01 01:57:37,270: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:57:37,283: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:57:37,284: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:57:37,464: INFO:_internal:172.18.0.2 - - [01/May/2024 01:57:37] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:58:29,013: INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.18.0.7:8080]
+[2024-05-01 01:58:29,014: INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2024-05-01 01:58:40,018: INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-01 01:58:40,023: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:58:40,024: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:58:40,026: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:58:40,027: INFO:common:created directory at: artifacts]
+[2024-05-01 01:58:40,027: INFO:common:created directory at: artifacts/data_ingestion]
+[2024-05-01 01:58:40,027: INFO:data_ingestion:File already exists of size: ~21 KB]
+[2024-05-01 01:58:40,029: INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:58:40,029: INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-01 01:58:40,033: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:58:40,034: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:58:40,037: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:58:40,037: INFO:common:created directory at: artifacts]
+[2024-05-01 01:58:40,037: INFO:common:created directory at: artifacts/data_validation]
+[2024-05-01 01:58:40,050: INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:58:40,051: INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-01 01:58:40,055: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:58:40,056: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:58:40,059: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:58:40,059: INFO:common:created directory at: artifacts]
+[2024-05-01 01:58:40,059: INFO:common:created directory at: artifacts/data_transformation]
+[2024-05-01 01:58:40,078: INFO:data_transformation:Splited data into training and test sets]
+[2024-05-01 01:58:40,078: INFO:data_transformation:(857, 13)]
+[2024-05-01 01:58:40,078: INFO:data_transformation:(286, 13)]
+[2024-05-01 01:58:40,078: INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:58:40,078: INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-01 01:58:40,082: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:58:40,083: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:58:40,086: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:58:40,086: INFO:common:created directory at: artifacts]
+[2024-05-01 01:58:40,087: INFO:common:created directory at: artifacts/model_trainer]
+[2024-05-01 01:58:40,101: INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:58:40,101: INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-05-01 01:58:40,107: INFO:common:yaml file: src/mlProject/config/config.yaml loaded successfully]
+[2024-05-01 01:58:40,108: INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-01 01:58:40,111: INFO:common:yaml file: schema.yaml loaded successfully]
+[2024-05-01 01:58:40,112: INFO:common:created directory at: artifacts]
+[2024-05-01 01:58:40,112: INFO:common:created directory at: artifacts/model_evaluation]
+[2024-05-01 01:58:40,125: INFO:common:json file save at :artifacts/model_evaluation/metrics.json]
+[2024-05-01 01:58:40,125: INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-01 01:58:40,301: INFO:_internal:172.18.0.2 - - [01/May/2024 01:58:40] "GET /train HTTP/1.1" 200 -]
+[2024-05-01 01:58:43,916: INFO:_internal:172.18.0.2 - - [01/May/2024 01:58:43] "GET / HTTP/1.1" 200 -]
+[2024-05-01 02:05:00,952: INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.18.0.7:8080]
+[2024-05-01 02:05:00,952: INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2024-05-01 02:05:14,332: INFO:_internal:172.18.0.2 - - [01/May/2024 02:05:14] "GET / HTTP/1.1" 200 -]
+[2024-05-01 02:05:14,387: INFO:_internal:172.18.0.2 - - [01/May/2024 02:05:14] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2024-05-01 02:05:14,388: INFO:_internal:172.18.0.2 - - [01/May/2024 02:05:14] "[33mGET /static/css2/nunito-font.css HTTP/1.1[0m" 404 -]
+[2024-05-01 02:05:14,427: INFO:_internal:172.18.0.2 - - [01/May/2024 02:05:14] "[33mGET /static/css2/style.css HTTP/1.1[0m" 404 -]
+[2024-05-01 02:05:14,430: INFO:_internal:172.18.0.2 - - [01/May/2024 02:05:14] "[33mGET /static/js/scripts.js HTTP/1.1[0m" 404 -]
+[2024-05-01 02:05:15,238: INFO:_internal:172.18.0.2 - - [01/May/2024 02:05:15] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2024-05-01 02:05:15,240: INFO:_internal:172.18.0.2 - - [01/May/2024 02:05:15] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-05-01 02:05:15,291: INFO:_internal:172.18.0.2 - - [01/May/2024 02:05:15] "[33mGET /static/assets/favicon.ico HTTP/1.1[0m" 404 -]
+[2024-05-01 02:07:15,124: INFO:_internal:172.18.0.2 - - [01/May/2024 02:07:15] "GET / HTTP/1.1" 200 -]
+[2024-05-01 02:07:15,180: INFO:_internal:172.18.0.2 - - [01/May/2024 02:07:15] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2024-05-01 02:07:15,181: INFO:_internal:172.18.0.2 - - [01/May/2024 02:07:15] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2024-05-01 02:07:15,228: INFO:_internal:172.18.0.2 - - [01/May/2024 02:07:15] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2024-05-01 02:07:15,258: INFO:_internal:172.18.0.2 - - [01/May/2024 02:07:15] "GET /static/js/scripts.js HTTP/1.1" 200 -]
+[2024-05-01 02:07:15,398: INFO:_internal:172.18.0.2 - - [01/May/2024 02:07:15] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-05-01 02:07:15,400: INFO:_internal:172.18.0.2 - - [01/May/2024 02:07:15] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 -]
+[2024-05-01 02:07:15,437: INFO:_internal:172.18.0.2 - - [01/May/2024 02:07:15] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
